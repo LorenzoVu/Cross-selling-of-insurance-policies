@@ -1,7 +1,7 @@
 # Insurance Cross-Selling Prediction Model
 
 ## Project Overview
-This project develops a predictive model for AssurePredict, a leading insurance company, to identify potential cross-selling opportunities among existing customers. The goal is to predict which customers are likely to purchase vehicle insurance, enabling more targeted marketing strategies.
+This project develops a predictive model to identify potential cross-selling opportunities among existing customers. The goal is to predict which customers are likely to purchase vehicle insurance, enabling more targeted marketing strategies.
 
 ## Dataset
 The analysis uses a dataset containing customer information including:
